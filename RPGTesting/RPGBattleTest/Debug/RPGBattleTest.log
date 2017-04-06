@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\megan\onedrive\documents\visual studio 2017\projects\fantasyrpg\rpgtesting\rpgbattletest\main.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\megan\onedrive\documents\visual studio 2017\projects\fantasyrpg\rpgtesting\rpgbattletest\main.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  FBattleGame.cpp
+c:\users\megan\onedrive\documents\visual studio 2017\projects\fantasyrpg\rpgtesting\rpgbattletest\fbattlegame.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  RPGBattleTest.vcxproj -> C:\Users\megan\OneDrive\Documents\Visual Studio 2017\Projects\FantasyRPG\RPGTesting\Debug\RPGBattleTest.exe
+  RPGBattleTest.vcxproj -> C:\Users\megan\OneDrive\Documents\Visual Studio 2017\Projects\FantasyRPG\RPGTesting\Debug\RPGBattleTest.pdb (Partial PDB)
